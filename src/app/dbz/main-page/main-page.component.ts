@@ -6,8 +6,6 @@ import { Component } from '@angular/core';
 })
 export class MainPageComponent {
 
-  Titulo: string = 'Dragon Ball Z';
-  espacio: any = '--------------';
 
 
 }
