@@ -5,6 +5,6 @@ export class dbzService{
 
 
     constructor(){
-        console.log('servicio inicializado')
+        console.log('servicio inicializado');
     }
 }
