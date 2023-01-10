@@ -1,6 +1,6 @@
 # Proyect deployed
 
-you can see this proyect deployed in: https://bases-herores.netlify.app/
+you can see the deployed project at: https://bases-herores.netlify.app/
 
 # Bases
 
