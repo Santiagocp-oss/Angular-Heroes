@@ -1,3 +1,6 @@
+#Despliegue del proyecto
+you can see this proyect deployed in: https://bases-herores.netlify.app/
+
 # Bases
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.0.4.
